@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: Yes, <code>raise</code> is used mainly for data validation and <code>assert</code>
+- text: Yes, <code>assert</code> is used mainly for data validation and <code>raise</code>
     is used for debugging.
 - text: No, there is no difference between their use cases.
-- text: Yes, <code>assert</code> is used mainly for data validation and <code>raise</code>
+- text: Yes, <code>raise</code> is used mainly for data validation and <code>assert</code>
     is used for debugging.
 message_correct: Congratulations!
 message_incorrect: Incorrect solution

@@ -1,9 +1,9 @@
 type: choice
 is_multiple_choice: true
 options:
-- text: <code class="language-python">assert &lt;message&gt;, &lt;condition&gt;</code>
 - text: <code class="language-python">assert &lt;condition&gt;</code>
 - text: <code class="language-python">assert &lt;condition&gt;, &lt;message&gt;</code>
+- text: <code class="language-python">assert &lt;message&gt;, &lt;condition&gt;</code>
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

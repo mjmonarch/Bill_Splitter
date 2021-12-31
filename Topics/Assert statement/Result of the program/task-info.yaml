@@ -1,10 +1,10 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: 'AssertionError: The score is unsatisfactory!'
-- text: AssertionError
 - text: 32
 - text: 34
+- text: 'AssertionError: The score is unsatisfactory!'
+- text: AssertionError
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:
